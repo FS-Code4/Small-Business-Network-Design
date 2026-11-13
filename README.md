@@ -14,7 +14,9 @@ Network Topolgy
 - 1 Cisco Router
 - 2 Cisco Switches
 - 6 PCs
-- 
+- 3 VLANs
+
+ 
 Network Configuration and Implementation
 
 1) VLAN configuraton
